@@ -1,6 +1,5 @@
 package ru.sberbank.edu;
 
-import java.lang.reflect.Field;
 import java.util.*;
 
 public class CustomArrayImpl<T> implements CustomArray<T> {
